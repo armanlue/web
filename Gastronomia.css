@@ -1,0 +1,24 @@
+h1 a{
+	text-align: center;
+}
+#seccion1{
+	margin: 10px;
+	float: left; width: 30%;
+	background: #FFDEAD;
+	text-align: center;
+	border: black 2px solid;
+}
+#seccion2{
+	margin: 10px;
+	float: left; width: 30%;
+	background: #FFDEAD;
+	text-align: center;
+	border: black 2px solid;
+}
+#seccion3{
+	margin: 10px;
+	float: left; width: 30%;
+	background: #FFDEAD;
+	text-align: center;
+	border: black 2px solid;
+}

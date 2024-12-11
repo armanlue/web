@@ -1,0 +1,35 @@
+body{
+	font-family: "Trebuchet MS";
+}
+h1{
+	text-align: center;
+}
+p{
+	margin: 8px;
+	text-align: justify;
+}
+#column1{
+	margin: 10px;
+	float: left; width: 30%;
+	background: #FFDEAD;
+	text-align: center;
+	border: black 2px solid;
+}
+#column2{
+	margin: 10px;
+	float: left; width: 30%;
+	background: #FFDEAD;
+	text-align: center;
+	border: black 2px solid;
+}
+#column3{
+	margin: 10px;
+	float: left; width: 30%;
+	background: #FFDEAD;
+	text-align: center;
+	border: black 2px solid;
+}
+section {
+	text-align: center;
+	text-align: justify;
+}

@@ -1,0 +1,13 @@
+#ladoizquierdo{
+	margin: -5px 20px 0px 0px;
+	float: center;
+	width: 1200px;
+	font-size: 11px;
+	height: 1200px; 
+}
+#section {
+    width: 1350px;
+    padding: 20px 40px;
+    height: 1200px; 
+    border: black 2px solid;
+}

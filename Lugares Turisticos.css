@@ -1,0 +1,122 @@
+/*estilo para todo el documento*/
+body{
+	background: #F6FDC3;
+	font-family: tahoma;
+	font-size: 11px;
+	width: 1200px;
+	marigin: auto;
+}
+/*estilo para la imagen de arriba*/
+#logo {
+  background: url("C:/Users/arman/OneDrive/Escritorio/Modulo3_Semestre/logo1.png") no-repeat center center;
+  margin: 0 auto;
+  background-size: 250px;
+  padding: 20em 0em 0em 0em;
+  text-transform: uppercase;
+}
+
+/*estilo para toda la etiqueta a incluida en el h1*/
+#logo h1 a{
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	letter-spacing: -.1em;
+	text-decoration: none;
+	font-size: 2em;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: center;
+}
+/*estilo para el subtitulo "todo sobre calvillo"*/
+#subtitulo{
+	text-align: center;
+	padding: 0em;
+	margin-top: -1em;
+	font-size: 1.5em;
+	color: #BDF2FF;
+}
+/*estilo para los elementos de la lista del menu*/
+#menu li{
+	display: inline-block;
+}
+/*estilo para la etiqueta del menu de opciones*/
+#menu a {
+display:block;
+float: left;
+margin-right: 0.12em;
+padding: 1em 1.5em;
+background: #38a438;
+box-shadow: inset 0px -2px 0px 0px
+rgba(0,0,0,0.25);
+text-decoration: none;
+text-shadow: 1px 1px 0px #0C749C;
+text-transform: uppercase;
+font-size: .90em;
+color: #FFFFFF;
+}
+/*estilo para lo que se muestra en el contenido*/
+#seccion{
+	width: 1150px;
+	padding: 20px 40px;
+	background: #FFF;
+	height: 675px;
+	border: black 2px solid;
+
+}
+/*estilo para la imagen que se encuentra dentro de la seccion*/
+#imagen{
+	margin-top: 2em;
+	width: 330px;
+	height: 250px;
+	text-align: center;
+	border: black 2px solid;
+
+}
+/*estilo para el titulo dentro de la seccion*/
+#subtitulo2{
+	font-family: Georgia;
+	font-size: 25px;
+	color: #733b8d;
+	font-size: 50px;
+	}
+/*estilo para el texto del lado derecho*/
+#ladoderecho{
+	margin: -5px 20px 0px 0px;
+	float: right;
+	width: 65%;
+	text-align: justify;
+	color: #666;
+}
+/*estilo para el pie del documento*/
+#pie{
+	text-align: center;
+	color:#b8bab9;
+	font-family: 'Century'
+}
+/*estilo para todos los parrafos del documento*/
+p{
+	font-family: Tahoma;
+	font-size: 11pt;
+}
+/*estilo para la segunda seccion*/
+#seccioon{
+	width: 1150px;
+	padding: 20px 40px;
+	background: #FFF;
+	height: 1675px;
+	border: black 2px solid;
+    text-align: left;
+}
+
+
+.contenedor .imagen {
+  transition: transform 0.3s ease-in-out;
+}
+
+.contenedor:hover .imagen {
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+}
+
+header {
+	text-align: center;
+}
